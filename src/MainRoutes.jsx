@@ -1,5 +1,5 @@
 import {Route, Routes} from 'react-router-dom';
-import Home from './assets/components/Home';
+import Home from './components/Home';
 
 function MainRoutes() {
     return (
